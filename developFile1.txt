@@ -1,3 +1,3 @@
 This is the first file in the develop branch.
-Some changes in the develop file.
-This is the second file in the series and some more changes.
+
+This is the second file in the series.
